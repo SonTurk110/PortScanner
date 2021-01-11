@@ -3,6 +3,7 @@ import socket
 import sys
 from time import sleep
 
+clear
 print("""
     
       _    ______ _ _        _____                      _ _
