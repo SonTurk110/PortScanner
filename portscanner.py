@@ -2,8 +2,10 @@
 import socket
 import sys
 from time import sleep
+from os import system
 
-clear
+system('cls||clear')
+
 print("""
     
       _    ______ _ _        _____                      _ _
