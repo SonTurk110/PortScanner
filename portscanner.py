@@ -85,6 +85,10 @@ if __name__ == '__main__':
 
     if len(sys.argv) == 5:
         scanRange(network, startPort, endPort)
- sleep(1) 
+web = "WebAltay Destekleriyle Beraber"
 
- prnt("SonTürk Ak Sunar..")
+
+print("")
+
+print(web)
+print("SonTürk Ak Sunar..")
